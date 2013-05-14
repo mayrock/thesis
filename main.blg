@@ -1,0 +1,27 @@
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: data/chap01.aux
+A level-1 auxiliary file: data/chap02.aux
+A level-1 auxiliary file: data/chap03.aux
+A level-1 auxiliary file: data/chap04.aux
+A level-1 auxiliary file: data/chap05.aux
+The style file: thubib.bst
+A level-1 auxiliary file: data/ack.aux
+A level-1 auxiliary file: data/resume.aux
+Database file #1: ref/refs.bib
+Warning--empty journal in granka2004eye
+Warning--empty booktitle in www08cui
+Warning--there's a publisher but no address in gropp1999using
+Warning--empty booktitle in 20122515131481
+Warning--there's a publisher but no address in turner1991social
+Warning--empty booktitle in widm01Mobasher
+Warning--empty booktitle in sigir09white
+Warning--empty booktitle in icina10xu
+Warning--empty booktitle in kdex99mobasher
+Warning--empty booktitle in pm2hw2n12almutairi
+Warning--empty booktitle in mum10do
+Warning--empty booktitle in www10zheng
+Warning--empty booktitle in ester1996density
+Warning--empty booktitle in kdd04steyvers
+Warning--empty booktitle in kdd08tang
+Warning--empty booktitle in kdd12tang
+(There were 16 warnings)

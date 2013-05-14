@@ -1,0 +1,94 @@
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+\secretlevel{公开} \secretyear{2100}
+
+\ctitle{移动环境下的用户行为分析}
+% 根据自己的情况选，不用这样复杂
+\makeatletter
+% \ifthu@bachelor\relax\else
+%   \ifthu@doctor
+%     \cdegree{工学博士}
+%   \else
+%     \ifthu@master
+      \cdegree{工学硕士}
+%     \fi
+%   \fi
+% \fi
+\makeatother
+
+
+\cdepartment[计算机]{计算机科学与技术系}
+\cmajor{计算机科学与技术}
+\cauthor{马远超} 
+\csupervisor{许斌 副教授}
+% 如果没有副指导老师或者联合指导老师，把下面两行相应的删除即可。
+%\cassosupervisor{某某某教授}
+%\ccosupervisor{某某某教授}
+% 日期自动生成，如果你要自己写就改这个cdate
+%\cdate{\CJKdigits{\the\year}年\CJKnumber{\the\month}月}
+
+% 博士后部分
+% \cfirstdiscipline{计算机科学与技术}
+% \cseconddiscipline{系统结构}
+% \postdoctordate{2009年7月——2011年7月}
+
+\etitle{User Behavior analysis in Mobile Environment} 
+% 这块比较复杂，需要分情况讨论：
+% 1. 学术型硕士
+%    \edegree：必须为Master of Arts或Master of Science（注意大小写）
+%              “哲学、文学、历史学、法学、教育学、艺术学门类，公共管理学科
+%               填写Master of Arts，其它填写Master of Science”
+%    \emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
+% 2. 专业型硕士
+%    \edegree：“填写专业学位英文名称全称”
+%    \emajor：“工程硕士填写工程领域，其它专业学位不填写此项”
+% 3. 学术型博士
+%    \edegree：Doctor of Philosophy（注意大小写）
+%    \emajor：“获得一级学科授权的学科填写一级学科名称，其它填写二级学科名称”
+% 4. 专业型博士
+%    \edegree：“填写专业学位英文名称全称”
+%    \emajor：不填写此项
+\edegree{Master of Science} 
+\emajor{Computer Science and Technology} 
+\eauthor{Ma Yuanchao} 
+\esupervisor{Associate Professor Xu Bin} 
+%\eassosupervisor{Chen Wenguang} 
+% 这个日期也会自动生成，你要改么？
+% \edate{December, 2005}
+
+% 定义中英文摘要和关键字
+\begin{cabstract}
+  移动计算设备近几年来得到了蓬勃发展，人们使用计算设备的场景也发生了翻天覆地的变化。智能手机、平板电脑等移动计算设备越来越多地参与到通讯、社交、娱乐、工作等日常生活的各方各面。这些计算设备都具有贴身携带、实时联网、传感器丰富等特点，能够在设备端及移动运营商网络中产生大量的用户行为数据。如何从这些数据中分析用户行为模式，在社交、娱乐、健康等方面为用户提供更好的服务，是亟待解决的问题。
+  
+  移动环境下的用户行为分析，具有数据来源种类繁多，关系复杂，数据量巨大，以及挖掘内容多样等特点，这也给该问题的研究带来了挑战。目前，传统的用户行为分析方法无法有效地将时间、空间、用户、社会关系、设备使用情况等诸多数据进行有效的整合和分析，难以快速提供紧密联系用户生活的分析结果。
+
+  基于上述背景，本文提出了对移动数据对用户行为进行分析挖掘的完整架构，包括数据的收集，挖掘算法设计，并行挖掘平台的搭建，以及挖掘结果可视化展示等，能够实现针对用户个人以及群体行为模式进行分析挖掘的完整流程。
+
+  个体用户行为分析方面，针对心理健康监测中的日常心境评估问题，本文提出了使用手机传感器及通讯数据评估用户心境的方法。利用智能手机感知数据（包括传感器数据，通讯记录以及手机使用数据等），结合用户的移动社交网络信息，使用基于因子图模型的机器学习方法，对用户每日的心境进行实时、客观地检测和评估，相较于传统的基于问卷的自报告评估方法，具有方便、客观和较小干预等优点。
+
+  群体用户行为分析方面，针对移动互联网用户上网兴趣和惯常模式，本文提出了使用移动运营商数据分析用户群体上网兴趣和模式发现的方法。将用户上网行为中的地理位置、用户兴趣、网站类型等因素进行统一建模和分析，以分析用户上网模式，预测上网行为。
+
+  针对移动环境下数据种类多，规模大等特征，本文提出并建立了并行化的移动用户行为分析平台，包括与具体存储无关的数据集操控API，REST接口以及数据可视化展示等，实现了对不同来源的数据进行统一的集成、处理、分析挖掘和可视化。
+
+\end{cabstract}
+
+\ckeywords{用户行为分析，移动计算，健康监测，基于位置的服务，云计算平台}
+
+\begin{eabstract} 
+  Mobile computing devices has been through rapid growth recently, and the scenario of using computing devices have changed dramatically. Mobile computing devices like smartphones and tablet computers have made theirs ways to every aspect of our daily lives, including communication, socialization, entertainment, work, etc.. All these devices are featured with characteristics like always-online connectivity, rich sensors, and are closely related to their owners. Huge amount of user behavioral data can be generated both on the devices and in mobile operator networks, which can be used to model use behavior patterns, and provide better service for users in socialization, entertainment, health-care, etc..
+  
+  However, challenges lie in modeling user behavior in mobile environment. User behavioral data in mobile environment is large-scale and diverse, with complicated relationships between different aspects of data. Mining target under this circumstances can also be more than diverse that traditional Web user behavior analysis. Current methods for user behavior analysis can not fully integrate various behavioral data (temperial, geographical, user, social, device, etc.) and provided comprehensive analysis.
+
+  This paper aims at building a comprehensive framework for mining and analyzing user behavior using mobile data. The framework include data collection, design of mining algorithm, design and implementation of parallel data mining platform, as well as visualization of minging results. Within the framework, user behavior analysis can be done on both invidivual level and city population level.
+
+  As for individual level behavior analysis, dealing with the problem of mood assessment in mental health monitering, this paper proposes a noval method for assessing daily mood using mobile phone sensing data, including communication data, phone usgae data and mobile phone sensor data. The proposed method combines user behavioral features with social network information, and builds a machine learning algorithm based on Factor Graph for doing daily mood assessment. Compared with traditional questionnare based self-report method, the proposed method is convenient, objective, and has minimal user intervention. 
+
+  As for group level behavior analysis, this paper proposes methods for discovering user interest and behavior patterns in mobile Web usage, based on mobile Web usage log from mobile operators. The model combines location, user interest, website types together in an unified probabilistic topic model, and do analysis as well as prediction on user behavior of mobile Web usage.
+
+  This paper also describes a new parallel mobile data analysis platform to deal with the diversity and scale of user behavioral data in mobile environment. The platform includes a implementation-independent API for manipulationg datasets, a REST API for remote accessing, as well as unified framework for data visualization, whicl allows unified integration, processing, mining, analysis and visualization on heterogenous datasets for different sources.
+\end{eabstract}
+
+\ekeywords{User Behavior Analysis, Mobile Computing, Health Monitering, Location Based Service, Cloud-computing Platform}

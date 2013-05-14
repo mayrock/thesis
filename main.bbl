@@ -1,0 +1,424 @@
+\begin{thebibliography}{10}
+
+\bibitem{forman1994challenges}
+Forman G~H, Zahorjan J.
+\newblock The challenges of mobile computing.
+\newblock Computer, 1994, 27(4):38--47
+\thudot
+
+\bibitem{satyanarayanan2011mobile}
+Satyanarayanan M.
+\newblock Mobile computing: the next decade.
+\newblock ACM SIGMOBILE Mobile Computing and Communications Review, 2011,
+  15(2):2--10
+\thudot
+
+\bibitem{mascolo2011mobile}
+Mascolo C, Musolesi M, Rentfrow P~J.
+\newblock Mobile Sensing for Mass-Scale Behavioural Intervention.
+\newblock Proceedings of NSF Workshop on Pervasive Computing at Scale (PeCS)
+  University of Washington Seattle, WA January, 2011.
+\newblock  27--28
+\thudot
+
+\bibitem{laurila2012mobile}
+Laurila J~K, Gatica-Perez D, Aad I, et~al.
+\newblock The mobile data challenge: Big data for mobile computing research.
+\newblock Proceedings of Proceedings of the Workshop on the Nokia Mobile Data
+  Challenge, in Conjunction with the 10th International Conference on Pervasive
+  Computing, 2012.
+\newblock  1--8
+\thudot
+
+\bibitem{liu2008identifying}
+Liu Y, Cen R, Zhang M, et~al.
+\newblock Identifying web spam with user behavior analysis.
+\newblock Proceedings of Proceedings of the 4th international workshop on
+  Adversarial information retrieval on the web. ACM, 2008.
+\newblock  9--16
+\thudot
+
+\bibitem{granka2004eye}
+Granka L~A, Joachims T, Gay G.
+\newblock Eye-Tracking Analysis of User Behavior in WWW Search.
+\newblock 2004.
+\thudot
+
+\bibitem{www08cui}
+Cui Y, Roto V.
+\newblock How people use the web on mobile devices.
+\newblock 2008
+\thudot
+
+\bibitem{ist06tseng}
+Tseng V~S, Lin K~W.
+\newblock Efficient mining and prediction of user behavior patterns in mobile
+  web systems.
+\newblock Information and Software Technology, 2006.
+\thudot
+
+\bibitem{infocom06kim}
+Kim M, Kotz D, Kim S.
+\newblock Extracting a mobility model from real user traces.
+\newblock Proceedings of Proc. IEEE Infocom, volume~6, 2006.
+\newblock  1--13
+\thudot
+
+\bibitem{borthakur2007hadoop}
+Borthakur D.
+\newblock The hadoop distributed file system: Architecture and design.
+\newblock Hadoop Project Website, 2007, 11:21
+\thudot
+
+\bibitem{gropp1999using}
+Gropp W, Lusk E~L, Skjellum A.
+\newblock Using MPI-: Portable Parallel Programming with the Message Passing
+  Interface, volume~1.
+\newblock MIT press, 1999
+\thudot
+
+\bibitem{engle2012shark}
+Engle C, Lupher A, Xin R, et~al.
+\newblock Shark: fast data analysis using coarse-grained distributed memory.
+\newblock Proceedings of Proceedings of the 2012 international conference on
+  Management of Data. ACM, 2012.
+\newblock  689--692
+\thudot
+
+\bibitem{disorder}
+RC K, WT C, O D, et~al.
+\newblock Prevalence, severity, and comorbidity of twelve-month DSM-IV
+  disorders in the National Comorbidity Survey Replication (NCS-R).
+\newblock Archives of General Psychiatry, 2005, 62(6):617--27
+\thudot
+
+\bibitem{20122515131481}
+Ma Y, Xu B, Bai Y, et~al.
+\newblock Daily mood assessment based on mobile phone sensing.
+\newblock London, United kingdom, 2012.
+\newblock  142 -- 147
+\thudot
+
+\bibitem{mood}
+Thayer R~E.
+\newblock The Biopsychology of Mood and Arousal.
+\newblock New York, NY: Oxford University Press, 1998
+\thudot
+
+\bibitem{assessmood}
+Wilhelm P, Schoebi D.
+\newblock Assessing Mood in Daily Life - Structural Validity, Sensitivity to
+  Change, and Reliability of a Short-Scale to Measure Three Basic Dimensions of
+  Mood.
+\newblock European Journal of Psychological Assessment, 2007, 23:258--267
+\thudot
+
+\bibitem{mooddimension}
+Thayer R~E.
+\newblock The Origin of Everyday Moods: managing energy, tension and stress.
+\newblock New York, NY: Oxford University Press, 1996
+\thudot
+
+\bibitem{childmood}
+Manassis K, Mendlowitz S, Kreindler D, et~al.
+\newblock Mood Assessment Via Animated Characters: A Novel Instrument to
+  Evaluate Feelings in Young Children With Anxiety Disorders.
+\newblock Journal of Clinical Child and Adolescent Psychology, 2009,
+  38(3):380--389.
+\newblock PMID: 19437298
+\thudot
+
+\bibitem{mobilephoneassessmood}
+Courvoisier D~S, Eid M, Lischetzke T, et~al.
+\newblock Psychometric Properties of a Computerized Mobile Phone Method for
+  Assessing Mood in Daily Life.
+\newblock Emotion, 2010, 10
+\thudot
+
+\bibitem{silk2011daily}
+Silk J, Forbes E, Whalen D, et~al.
+\newblock Daily emotional dynamics in depressed youth: A cell phone ecological
+  momentary assessment study.
+\newblock Journal of experimental child psychology, 2011, 110(2):241--257
+\thudot
+
+\bibitem{surveyofsensor}
+Lane N, Miluzzo E, Lu H, et~al.
+\newblock A survey of mobile phone sensing.
+\newblock Communications Magazine, IEEE, 2010, 48(9):140 --150
+\thudot
+
+\bibitem{myHealth}
+Seeger C, Buchmann A, Laerhoven K~V.
+\newblock myHealthAssistant: A Phone-based Body Sensor Network that Captures
+  the Wearer's Exercises throughout the Day.
+\newblock Proceedings of BodyNets, 2011
+\thudot
+
+\bibitem{realitymining}
+Eagle N, (Sandy)~Pentland A.
+\newblock Reality mining: sensing complex social systems.
+\newblock Personal Ubiquitous Comput., 2006, 10(4):255--268
+\thudot
+
+\bibitem{aharonyfunf}
+Aharony N, Gardner A, Sumter C, et~al.
+\newblock F{\"u}nf, Open Sensing Framework
+\thudot
+
+\bibitem{Bai:2012:YGS:2442691.2442720}
+Bai Y, Xu B, Ma Y, et~al.
+\newblock Will you have a good sleep tonight?: sleep quality prediction with
+  mobile phone.
+\newblock Proceedings of Proceedings of the 7th International Conference on
+  Body Area Networks, ICST, Brussels, Belgium, Belgium: ICST (Institute for
+  Computer Sciences, Social-Informatics and Telecommunications Engineering),
+  2012.
+\newblock  124--130
+\thudot
+
+\bibitem{jianc}
+Cui J, Sun G, Xu B.
+\newblock AD-Sense - Activity-driven Sensing for Mobile Devices.
+\newblock Proceedings of The 9th ACM Conference on Embedded Networked Sensor
+  Systems (SenSys'11), 2011
+\thudot
+
+\bibitem{activity}
+Arase Y, Ren F, Xie X.
+\newblock User activity understanding from mobile phone sensors.
+\newblock Proceedings of Proceedings of the 12th ACM international conference
+  adjunct papers on Ubiquitous computing, New York, NY, USA: ACM, 2010.
+\newblock  391--392
+\thudot
+
+\bibitem{localization}
+Constandache I, Choudhury R, Rhee I.
+\newblock Towards Mobile Phone Localization without War-Driving.
+\newblock Proceedings of INFOCOM, 2010 Proceedings IEEE, 2010.
+\newblock  1 --9
+\thudot
+
+\bibitem{moodsleepsocial}
+Moturu S, Khayal I, Aharony N, et~al.
+\newblock Using Social Sensing to Understand the Links between Sleep, Mood, and
+  Sociability.
+\newblock Proceedings of Privacy, security, risk and trust (passat), 2011 ieee
+  third international conference on social computing (socialcom), 2011.
+\newblock  208 --214
+\thudot
+
+\bibitem{rachuri2010emotionsense}
+Rachuri K~K, Musolesi M, Mascolo C, et~al.
+\newblock EmotionSense: a mobile phones based adaptive platform for
+  experimental social psychology research.
+\newblock Proceedings of Proceedings of the 12th ACM international conference
+  on Ubiquitous computing. ACM, 2010.
+\newblock  281--290
+\thudot
+
+\bibitem{likamwa2011can}
+LiKamWa R, Liu Y, Lane N~D, et~al.
+\newblock Can your smartphone infer your mood?
+\newblock Proceedings of PhoneSense workshop, 2011
+\thudot
+
+\bibitem{socialEmotion}
+Tang J, Zhang Y, Sun J, et~al.
+\newblock Quantitative Study of Individual Emotional States in Social Networks.
+\newblock IEEE Transactions on Affective Computing, 2011.
+\thudot
+
+\bibitem{kmeans}
+Hartigan J~A, Wong M~A.
+\newblock Algorithm AS 136: A K-Means Clustering Algorithm.
+\newblock Journal of the Royal Statistical Society. Series C (Applied
+  Statistics), 1979, 28(1):pp. 100--108
+\thudot
+
+\bibitem{activityRecognition}
+Bao L, Intille S.
+\newblock Activity recognition from user-annotated acceleration data.
+\newblock Proceedings of LNCS 3001, 2004.
+\newblock  1--17
+\thudot
+
+\bibitem{turner1991social}
+Turner J~C.
+\newblock Social influence.
+\newblock Open University Press Milton Keynes, 1991
+\thudot
+
+\bibitem{eastwick2009game}
+Eastwick P~W, Gardner W~L.
+\newblock Is it a game? Evidence for social influence in the virtual world.
+\newblock Social Influence, 2009, 4(1):18--32
+\thudot
+
+\bibitem{factorgraph}
+Kschischang F~R, Frey B~J, Loeliger H~A.
+\newblock Factor Graphs and the Sum-Product Algorithm.
+\newblock IEEE Transaction on Information Theory, 2001, 47:498--519
+\thudot
+
+\bibitem{followback}
+Hopcroft J, Lou T, Tang J.
+\newblock Who Will Follow You Back? Reciprocal Relationship Prediction.
+\newblock Proceedings of The 20th ACM Conference on Information and Knowledge
+  Management (CIKM 2011), 2011
+\thudot
+
+\bibitem{mh}
+Chib S, Greenberg E.
+\newblock Understanding the Metropolis-Hastings Algorithm.
+\newblock The American Statistician, 1995, 49(4):327--335
+\thudot
+
+\bibitem{kdd00kosala}
+Kosala R, Blockeel H.
+\newblock Web mining research: a survey.
+\newblock SIGKDD Explor. Newsl., 2000, 2(1):1--15
+\thudot
+
+\bibitem{kdd00srivastava}
+Srivastava J, Cooley R, Deshpande M, et~al.
+\newblock Web usage mining: discovery and applications of usage patterns from
+  Web data.
+\newblock SIGKDD Explor. Newsl., 2000.
+\thudot
+
+\bibitem{widm01Mobasher}
+Mobasher B, Dai H, Luo T, et~al.
+\newblock Effective personalization based on association rule discovery from
+  web usage data.
+\newblock 2001.
+\newblock  9--15
+\thudot
+
+\bibitem{sigir09white}
+White R~W, Bailey P, Chen L.
+\newblock Predicting user interests from contextual information.
+\newblock 2009
+\thudot
+
+\bibitem{tkde08nasraoui}
+Nasraoui O, Soliman M, Saka E, et~al.
+\newblock A Web Usage Mining Framework for Mining Evolving User Profiles in
+  Dynamic Web Sites.
+\newblock Knowledge and Data Engineering, IEEE Transactions on, 2008.
+\thudot
+
+\bibitem{icina10xu}
+Xu J, Liu H.
+\newblock Web user clustering analysis based on KMeans algorithm.
+\newblock 2010
+\thudot
+
+\bibitem{kdex99mobasher}
+Mobasher B, Cooley R, Srivastava J.
+\newblock Creating adaptive Web sites through usage-based clustering of URLs.
+\newblock 1999
+\thudot
+
+\bibitem{pm2hw2n12almutairi}
+Almutairi A, Somaiya M, Moghaddam S, et~al.
+\newblock A global local modeling of internet usage in large mobile societies.
+\newblock 2012
+\thudot
+
+\bibitem{fuzzy02phatak}
+Phatak D, Mulvaney R.
+\newblock Clustering for personalized mobile Web usage.
+\newblock Proceedings of Fuzzy Systems, 2002
+\thudot
+
+\bibitem{mum10do}
+Do T~M~T, Gatica-Perez D.
+\newblock By their apps you shall understand them: mining large-scale patterns
+  of mobile phone usage.
+\newblock 2010
+\thudot
+
+\bibitem{puc09verkasalo}
+Verkasalo H.
+\newblock Contextual patterns in mobile service usage.
+\newblock Personal and Ubiquitous Computing, 2009.
+\thudot
+
+\bibitem{env07park}
+Park M~h, Hong J~h, Cho S~b.
+\newblock Location-Based Recommendation System Using Bayesian User's Preference
+  Model in Mobile Devices.
+\newblock Environment, 2007.
+\thudot
+
+\bibitem{www10zheng}
+Zheng V~W, Zheng Y, Xie X, et~al.
+\newblock Collaborative location and activity recommendations with GPS history
+  data.
+\newblock 2010
+\thudot
+
+\bibitem{debu10zheng}
+Zheng Y, Xie X, Ma W~Y.
+\newblock GeoLife: A Collaborative Social Networking Service among User,
+  Location and Trajectory.
+\newblock IEEE Data Eng. Bull., 2010.
+\thudot
+
+\bibitem{ester1996density}
+Ester M, Kriegel H, Sander J, et~al.
+\newblock A density-based algorithm for discovering clusters in large spatial
+  databases with noise
+\thudot
+
+\bibitem{jmlr03blei}
+Blei D~M, Ng A~Y, Jordan M~I.
+\newblock Latent dirichlet allocation.
+\newblock J. Mach. Learn. Res.
+\thudot
+
+\bibitem{kdd04steyvers}
+Steyvers M, Smyth P, Rosen-Zvi M, et~al.
+\newblock Probabilistic author-topic models for information discovery
+\thudot
+
+\bibitem{kdd08tang}
+Tang J, Zhang J, Yao L, et~al.
+\newblock ArnetMiner: extraction and mining of academic social networks
+\thudot
+
+\bibitem{kdd12tang}
+Tang J, Wu S, Sun J, et~al.
+\newblock Cross-domain collaboration recommendation
+\thudot
+
+\bibitem{tist11farrahi}
+Farrahi K, Gatica-Perez D.
+\newblock Discovering routines from large-scale human locations using
+  probabilistic topic models.
+\newblock ACM Trans. Intell. Syst. Technol.
+\thudot
+
+\bibitem{nas04griffiths}
+Griffiths T, Steyvers M.
+\newblock Finding scientific topics.
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America.
+\thudot
+
+\bibitem{sensorevent}
+Project A~O~S.
+\newblock SensorEvent Documentation for Android developers
+\thudot
+
+\bibitem{pautasso2008restful}
+Pautasso C, Zimmermann O, Leymann F.
+\newblock Restful web services vs. big'web services: making the right
+  architectural decision.
+\newblock Proceedings of Proceedings of the 17th international conference on
+  World Wide Web. ACM, 2008.
+\newblock  805--814
+\thudot
+
+\end{thebibliography}

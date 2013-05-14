@@ -1,0 +1,56 @@
+\BOOKMARK [-1][]{ctitle.-1}{移动环境下的用户行为分析}{}% 1
+\BOOKMARK [0][]{thuchapter.1.0}{摘 要}{ctitle.-1}% 2
+\BOOKMARK [0][]{thuchapter.2.0}{Abstract}{ctitle.-1}% 3
+\BOOKMARK [0][]{thuchapter.3.0}{目 录}{ctitle.-1}% 4
+\BOOKMARK [0][]{chapter.1}{第 1 章 绪论}{ctitle.-1}% 5
+\BOOKMARK [1][-]{section.1.1}{1.1 研究背景}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{1.2 论文的内容和主要贡献}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 个体用户行为分析方法}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 群体用户行为分析方法}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 移动环境下用户行为分析平台}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{1.3 论文的主要结构}{chapter.1}% 11
+\BOOKMARK [0][]{chapter.2}{第 2 章 基于手机数据的用户心境评估}{ctitle.-1}% 12
+\BOOKMARK [1][-]{section.2.1}{2.1 心境与心境评估}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{2.2 相关工作}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{2.3 数据与模型描述}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 问题与特征定义}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 实验和数据观察}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 模型描述}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 SFFG模型学习}{section.2.3}% 19
+\BOOKMARK [1][-]{section.2.4}{2.4 算法评估}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.5}{2.5 本章小结}{chapter.2}% 21
+\BOOKMARK [0][]{chapter.3}{第 3 章 基于移动运营商数据的用户上网行为分析}{ctitle.-1}% 22
+\BOOKMARK [1][-]{section.3.1}{3.1 相关工作}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{3.2 数据描述}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{3.3 地理区域发现}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 聚类算法}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 聚类结果}{section.3.3}% 27
+\BOOKMARK [1][-]{section.3.4}{3.4 用户兴趣发现模型}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 网站发现}{section.3.4}% 29
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 用户的网站向量表示}{section.3.4}% 30
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 用户-区域-兴趣（URI，User-Region-Interest）模型}{section.3.4}% 31
+\BOOKMARK [1][-]{section.3.5}{3.5 实验}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 实验数据}{section.3.5}% 33
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 用户兴趣发现}{section.3.5}% 34
+\BOOKMARK [1][-]{section.3.6}{3.6 讨论}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.6.1}{3.6.1 模型表现分析}{section.3.6}% 36
+\BOOKMARK [2][-]{subsection.3.6.2}{3.6.2 群体行为模式聚合分析}{section.3.6}% 37
+\BOOKMARK [1][-]{section.3.7}{3.7 本章小结}{chapter.3}% 38
+\BOOKMARK [0][]{chapter.4}{第 4 章 移动数据分析平台}{ctitle.-1}% 39
+\BOOKMARK [1][-]{section.4.1}{4.1 系统概述}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.2}{4.2 手机端数据采集系统}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Android平台传感器概述}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 应用实现}{section.4.2}% 43
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 传感器管理策略}{section.4.2}% 44
+\BOOKMARK [1][-]{section.4.3}{4.3 并行化数据分析平台}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 平台编程接口的设计与实现}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 平台远程访问的REST接口设计与实现}{section.4.3}% 47
+\BOOKMARK [1][-]{section.4.4}{4.4 数据可视化模块}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.5}{4.5 本章小结}{chapter.4}% 49
+\BOOKMARK [0][]{chapter.5}{第 5 章 总结及未来工作}{ctitle.-1}% 50
+\BOOKMARK [1][-]{section.5.1}{5.1 论文总结}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.2}{5.2 未来工作}{chapter.5}% 52
+\BOOKMARK [0][]{section*.44}{参考文献}{ctitle.-1}% 53
+\BOOKMARK [0][]{section*.46}{致 谢}{ctitle.-1}% 54
+\BOOKMARK [0][]{section*.48}{声 明}{ctitle.-1}% 55
+\BOOKMARK [0][]{section*.50}{个人简历、在学期间发表的学术论文与研究成果}{ctitle.-1}% 56

@@ -1,0 +1,566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 1109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/cover.tex",
+			"settings":
+			{
+				"buffer_size": 5599,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/resume.tex",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/chap04.tex",
+			"settings":
+			{
+				"buffer_size": 8928,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data/chap03.tex",
+			"settings":
+			{
+				"buffer_size": 23643,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data/chap02.tex",
+			"settings":
+			{
+				"buffer_size": 14802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/chap05.tex",
+			"settings":
+			{
+				"buffer_size": 1440,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data/chap01.tex",
+			"settings":
+			{
+				"buffer_size": 4513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data/ack.tex",
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/msmake.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/SkyDrive/Lab/thesis/latex/data/chap01.tex",
+		"/E/SkyDrive/Lab/thesis/latex/ref/refs.bib",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/User/msmake.sublime-build",
+		"/E/SkyDrive/Lab/thesis/latex/msmake.cmd",
+		"/E/SkyDrive/Lab/thesis/latex/data/appendix01.tex",
+		"/E/SkyDrive/Lab/thesis/latex/data/chap02.tex",
+		"/E/SkyDrive/Lab/thesis/latex/data/chap03.pdf",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/E/SkyDrive/Lab/thesis/latex/config.mk",
+		"/E/SkyDrive/Lab/thesis/latex/thesis.sublime-workspace",
+		"/E/SkyDrive/Lab/thesis/latex/thutils.sty",
+		"/E/SkyDrive/Lab/KDD13_Paper/kdd2013/kdd13.tex",
+		"/E/SkyDrive/Lab/thesis/latex/data/chap03.tex",
+		"/E/SkyDrive/Lab/thesis/latex/main.tex",
+		"/E/SkyDrive/Lab/thesis/latex/data/cover.tex",
+		"/E/SkyDrive/Lab/thesis/latex/ref/mdap.bib",
+		"/E/SkyDrive/Lab/thesis/latex/ref/mood.bib",
+		"/E/SkyDrive/Lab/thesis/latex/figures/sffg.pdf",
+		"/E/SkyDrive/Lab/thesis/latex/main.synctex.gz",
+		"/E/SkyDrive/Lab/AHSWN_Paper/ahswn.tex",
+		"/E/SkyDrive/Lab/thesis/latex/main.toc",
+		"/E/SkyDrive/Lab/thesis/latex/rsfs10.2602gf",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/latex/data/chap01.aux",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/latex/main.pdf",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/latex/main.tex",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/proj.sublime-project",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/proj.sublime-workspace",
+		"/C/Users/mayrock/SkyDrive/Lab/thesis/context/data/abstract.tex"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"behavior data",
+			"analysis",
+			"management",
+			"数据机",
+			"mood",
+			"故宫",
+			"邻域$",
+			"Region",
+			"region",
+			"Region",
+			"region",
+			"Region",
+			"region",
+			"Region",
+			"Tencent",
+			"Weibo",
+			"Renren",
+			"\\mathbf{ql}",
+			"URI2模型中的",
+			"\\textit{兴趣}",
+			"Interest",
+			"URI模型2",
+			"URI模型1",
+			"divergence",
+			"网站集合表示",
+			"\\ref{",
+			"neighborhood",
+			"移动Web",
+			"\\label{",
+			"第$t$天",
+			"轻松度",
+			"\\label{",
+			"\\ref{",
+			"\\\\ref\\{",
+			"\\\\ref{",
+			"\\\\ref\\{",
+			"sffg",
+			"defn",
+			"newdef",
+			"conclusion",
+			"sffg",
+			"170px",
+			"300px",
+			"graphics",
+			"days",
+			"graphics",
+			"includegr",
+			"\\\\epsfig\\{file=pic/(\\w+)\\.eps.+\\}",
+			"latex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"behavioral data",
+			"数据集",
+			"neighborhood$",
+			"腾讯",
+			"新浪微博",
+			"人人网",
+			"``兴趣''",
+			"兴趣",
+			"URI2模型",
+			"URI1模型",
+			"差异",
+			"网站向量表示",
+			"\\ref{interest:",
+			"移动互联网",
+			"\\label{interest:",
+			"$t$时间槽内",
+			"放松度",
+			"\\label{mood:",
+			"\\ref{mood:",
+			"definition",
+			"10cm",
+			"15cm",
+			"\\\\includegraphics{\\1}",
+			"\\includegraphics{\\1}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 1109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data/cover.tex",
+					"settings":
+					{
+						"buffer_size": 5599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5502,
+								5502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "data/resume.tex",
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1131,
+								1131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "data/chap04.tex",
+					"settings":
+					{
+						"buffer_size": 8928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1581,
+								1581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "data/chap03.tex",
+					"settings":
+					{
+						"buffer_size": 23643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1388,
+								1388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "data/chap02.tex",
+					"settings":
+					{
+						"buffer_size": 14802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "data/chap05.tex",
+					"settings":
+					{
+						"buffer_size": 1440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1438,
+								1438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "data/chap01.tex",
+					"settings":
+					{
+						"buffer_size": 4513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4085,
+								4085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "data/ack.tex",
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/SkyDrive/Lab/thesis/latex/thesis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
